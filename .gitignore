@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pdf
+patch_nlp.py
+create_notebooks.py
+churn_cleaned.csv
