@@ -1,4 +1,4 @@
-# Codveda Technologies — Data Science Internship
+# Codveda Technologies - Data Science Internship
 
 **Intern:** Abdoulie Balisa  
 **Duration:** 17 May 2026 – 17 June 2026  
